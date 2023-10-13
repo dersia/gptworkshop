@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "description": "Hilft nutzer bei deren Anliegen",
+  "input": {
+    "parameters": [
+      {
+        "name": "input",
+        "description": "Anliegen des Nutzers",
+        "defaultValue": ""
+      },
+      {
+        "name": "sprache",
+        "description": "Sprache in der die Antwort gegeben werden soll, dies ist optional",
+        "defaultValue": ""
+      },
+      {
+        "name": "themen",
+        "description": "Ein paar Themen aus welchen eines ausgesucht werden kann um darüber zu Meckern, dies ist optional",
+        "defaultValue": ""
+      }
+    ]
+  }
+}

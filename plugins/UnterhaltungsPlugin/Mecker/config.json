@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "description": "Hilft nutzer bei deren Anliegen",
+  "input": {
+    "parameters": [
+      {
+        "name": "input",
+        "description": "Anliegen des Nutzers",
+        "defaultValue": ""
+      }
+    ]
+  }
+}
